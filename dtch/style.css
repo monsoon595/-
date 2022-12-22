@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(213, 231, 234);
+}
+
+    #on1{
+        color: rgb(108, 102, 87);
+padding: 10px 9px 6px 10px;
+border: 25px double rgb(183, 205, 209);
+margin: 40px;
+    }
+
+    img{
+        position:fixed;
+        width: 30%;
+top: 190px;
+right: 60px;
+    }
+
+    #on2{
+        color: rgb(125, 118, 105);
+    }
+    .btn{
+        cursor: pointer;
+    }
+    #hide{
+        display: none;
+        padding-top:15px ;
+    }
